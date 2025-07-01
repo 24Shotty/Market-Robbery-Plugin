@@ -1,5 +1,3 @@
-ℹ️ Informazioni
-Plugin sviluppato per aggiungere rapine dinamiche ai market in ambienti Semi-Roleplay.
 Autore: 24Shotty
 Licenza: GPLv3
 
